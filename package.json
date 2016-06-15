@@ -1,0 +1,22 @@
+{
+  "name": "tech2day2016-bot",
+  "version": "0.1.0",
+  "description": "Spark bot for the Tech2Day 2016 edition",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spark",
+    "bot",
+    "web2day",
+    "tech2day"
+  ],
+  "author": "Stève Sfartz",
+  "license": "MIT",
+  "dependencies": {
+    "node-sparky": "^2.0.27",
+    "request": "^2.72.0",
+    "sparkbot-starterkit": "^0.5.0"
+  }
+}
